@@ -26,6 +26,7 @@ public class C01_DriverMethodlari {
         WebDriver driver = new ChromeDriver();
 
         driver.get("https://www.amazon.com");
+
         //acilan sayfanın başlıgının amazon içerdiğini test edin.
 
         String expectedKelime = "amazon";
