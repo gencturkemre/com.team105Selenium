@@ -41,6 +41,11 @@ public class C04_AutomationExercise {
             System.out.println("special testi PASSED");
         } else System.out.println("FAILED");
 
+
+         /*
+            NoSuchElementException driver findElement ile bir öğe ara
+            gelmeksa olusur
+         */
         // 6- Sayfayi kapatin
 
 

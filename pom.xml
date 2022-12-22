@@ -14,4 +14,17 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
+    <dependencies>
+        <!-- Maven sayesinde projemiz için gerekli olan tüm kutuphanelerin
+            github adreslerini buraya yazmamız yeterli olacak
+            github adreslerini bulma ve bu girişimi anlayacaği halde buraya ekleme
+            isini mvnrepository.com'dan yapacagiz -->
+        <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+
+
+
+    </dependencies>
+
+
+
 </project>
